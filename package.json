@@ -1,0 +1,19 @@
+{
+  "name": "exporteer_imdb",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brokensandals/exporteer_imdb.git"
+  },
+  "keywords": [
+    "backup",
+    "export"
+  ],
+  "author": "Jacob Williams <jacobaw@gmail.com> (https://brokensandals.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brokensandals/exporteer_imdb/issues"
+  },
+  "homepage": "https://github.com/brokensandals/exporteer_imdb#readme"
+}
