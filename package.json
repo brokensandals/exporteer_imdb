@@ -1,7 +1,11 @@
 {
   "name": "exporteer_imdb",
   "version": "0.0.1",
-  "description": "",
+  "description": "Exports your data from IMDB.",
+  "main": "index.js",
+  "bin": {
+    "exporteer_imdb": "cli.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/brokensandals/exporteer_imdb.git"
