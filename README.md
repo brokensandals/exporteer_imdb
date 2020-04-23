@@ -7,7 +7,7 @@ Currently, it only retrieves your watchlist and ratings. It uses [puppeteer](htt
 ## Setup
 
 1. Install node.js and npm
-2. `npm installg -g exporteer_imdb`
+2. `npm install -g exporteer_imdb`
 
 ## Usage
 
