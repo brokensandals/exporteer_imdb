@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brokensandals/exporteer_imdb/issues"
   },
-  "homepage": "https://github.com/brokensandals/exporteer_imdb#readme"
+  "homepage": "https://github.com/brokensandals/exporteer_imdb#readme",
+  "dependencies": {
+    "puppeteer": "^3.0.1"
+  }
 }
